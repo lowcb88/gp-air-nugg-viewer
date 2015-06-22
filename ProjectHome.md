@@ -1,0 +1,1 @@
+Adobe AIR application that allow you to analyse/watch off-line abap source code. The abap source code must be in the XML-NUGG format. To extract the Abap source code from your R/3 system, you need to use the super tool: SAPLINK. The application was developped using FLEX.
